@@ -1,0 +1,15 @@
+﻿  2048.cpp
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(195): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game.cpp
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(195): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(125): warning C4715: Game::IsLose: значение возвращается не при всех путях выполнения
+  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  2048.vcxproj -> C:\Users\Slavik\Desktop\c++\2048\2048\Release\2048.exe

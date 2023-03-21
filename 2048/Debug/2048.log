@@ -1,0 +1,12 @@
+﻿  2048.cpp
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(195): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game.cpp
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\slavik\desktop\c++\2048\2048\2048\game.cpp(195): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  2048.vcxproj -> C:\Users\Slavik\Desktop\c++\2048\2048\Debug\2048.exe
